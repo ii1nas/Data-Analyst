@@ -19,6 +19,10 @@ Excel , power bi ,Tableau , python , sql
 
 
 مرفق لكم فديوهات من قناة عسال توضح الفروقات بين هذه المجالات 
+
+
+
+
 https://www.youtube.com/watch?v=s-5qTbvvqvg 
 
 
