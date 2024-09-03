@@ -8,6 +8,8 @@
 
 
 Excel , power bi ,Tableau , python , sql 
+
+
 كما ذكرت python , sql للتعامل مع البيانات الضخمه 
 
 مجالات اخرى متداخله مع مجال تحليل البيانات 
